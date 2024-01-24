@@ -699,7 +699,7 @@ knative.dev/pkg/metrics
 knative.dev/pkg/metrics/metricskey
 knative.dev/pkg/tracker
 # knative.dev/toolbox v0.0.0 => ../
-## explicit; go 1.18
+## explicit; go 1.21
 knative.dev/toolbox/pkg/cmd
 knative.dev/toolbox/pkg/ghutil
 knative.dev/toolbox/pkg/ghutil/fakeghutil

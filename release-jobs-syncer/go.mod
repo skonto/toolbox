@@ -1,6 +1,8 @@
 module knative.dev/toolbox/release-jobs-syncer
 
-go 1.18
+go 1.21
+
+toolchain go1.21.0
 
 replace knative.dev/toolbox => ../
 
